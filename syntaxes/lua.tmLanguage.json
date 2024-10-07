@@ -255,7 +255,7 @@
 		"operators": {
 			"patterns": [
 				{
-					"match": "(\\+|-(?!-)|/|\\*|%|\\^)",
+					"match": "(\\+|-(?!-)|/|//|\\*|%|\\^)",
 					"name": "keyword.operator.arithmetic.lua"
 				},
 				{
